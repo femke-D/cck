@@ -1,3 +1,7 @@
+Femke denoo 
+Margot Ropcke 
+Nikola Neutiens
+
 # CCK
 
 ## Design
